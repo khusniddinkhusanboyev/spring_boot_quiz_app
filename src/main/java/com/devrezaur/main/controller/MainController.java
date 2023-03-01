@@ -67,5 +67,9 @@ public class MainController {
 		
 		return "scoreboard.html";
 	}
+	@GetMapping("/addquiz")
+	public String addQuiz(){
+		return "addquiz.html";
+	}
 
 }

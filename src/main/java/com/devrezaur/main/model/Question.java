@@ -26,7 +26,13 @@ public class Question {
 		super();
 	}
 
-	public Question(int quesId, String title, String optionA, String optionB, String optionC, int ans, int chose) {
+	public Question(int quesId,
+					String title,
+					String optionA,
+					String optionB,
+					String optionC,
+					int ans,
+					int chose) {
 		super();
 		this.quesId = quesId;
 		this.title = title;

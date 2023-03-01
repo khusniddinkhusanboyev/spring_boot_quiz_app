@@ -73,3 +73,8 @@ footer {
 	text-align: center;
 	line-height: 80px;
 }
+
+.small-div {
+  width: 100px; /* set width to 100 pixels */
+  height: 50px; /* set height to 50 pixels */
+}
